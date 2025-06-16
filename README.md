@@ -4,7 +4,7 @@ RentalEase is a modern, user-friendly car rental application designed to streaml
 Key Features: 
 • User Authentication: Secure login and registration for users to manage their bookings. 
 • Car Listings: Display of available vehicles with detailed descriptions and pricing. 
-• Booking Management: Users can easily select rental dates and confirm reservations. 
+• Booking Management: Users can easily select rental dates and confirm reservations.
 • Admin Dashboard: Admins can manage car listings, bookings, and user accounts. 
 Technologies Used: 
 Frontend: 
