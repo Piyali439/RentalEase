@@ -56,7 +56,7 @@ npm start
 ```
 The app will run at: http://localhost:3000
 
-###🧠 Future Improvements
+### 🧠 Future Improvements
 -Razorpay/Stripe payment gateway integration
 -Twilio or Oracle Cloud SMS OTP verification
 -Admin analytics dashboard with charts
